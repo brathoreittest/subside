@@ -1,0 +1,5 @@
+{
+  "name": "SubShadow AI",
+  "description": "An AI-powered subtitle shadowing and translation tool for language learning.",
+  "requestFramePermissions": ["screen-wake-lock"]
+}
